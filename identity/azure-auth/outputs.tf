@@ -1,3 +1,4 @@
 output "ip" {
-    value = "${azurerm_public_ip.tf_publicip.ip_address}"
+  value = azurerm_public_ip.vault.ip_address
 }
+

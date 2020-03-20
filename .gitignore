@@ -1,3 +1,6 @@
+**/.envrc
+**/id_rsa*
+
 # Compiled files
 *.tfstate
 *.tfstate.*
